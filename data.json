@@ -1,0 +1,43 @@
+{
+  "datarobotic": [{
+      "model": "X-THDMILENIUM",
+      "age": 21,
+      "gender": "Male",
+      "career": "SECURITY",
+      "stratification": {
+        "class": "A1",
+        "points": 43
+      }
+    },
+    {
+      "model": "ora",
+      "age": 22,
+      "gender": "Female",
+      "career": "Paramedic",
+      "stratification": {
+        "class": "B2",
+        "points": 25
+      }
+    },
+    {
+      "model": "demas-y9",
+      "age": 20,
+      "gender": "Female",
+      "career": "Paramedic",
+      "stratification": {
+        "class": "B2",
+        "points": 28
+      }
+    },
+    {
+      "model": "derar",
+      "age": 23,
+      "gender": "Male",
+      "career": "Surgeon",
+      "stratification": {
+        "class": "A1",
+        "points": 38
+      }
+    }
+  ]
+}
